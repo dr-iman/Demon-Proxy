@@ -138,6 +138,7 @@ Get Proxy                    For Getting Proxy List Use This Parametr
 
 Help                         Some Details About How Using Demon Proxy Tool
 
+Show options                 List of Parametrs For Getting Proxy
 ";
 print color ("reset");
 
