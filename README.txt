@@ -69,3 +69,6 @@ Important note : if you don't specify the format it will show you the proxies wi
 
 
 
+Proxy-Demon > get proxy
+Get-Proxy > command [Example : limit=10&level=elite&post=true&type=http&format=txt]
+Result Proxy
